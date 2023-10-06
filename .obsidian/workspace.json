@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "4d5bba7e9769a81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "399ae0d6c8770668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d14e66ec0fe842",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CICD Devops/VM Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f016c7a238c6030e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3717df0642b085e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137a5c37378787df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdd9a7faa4469952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "536ae9cbbaa1832c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fa036233b2a2ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3fedf2d51c938b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "450f884d01bc4ea1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CICD Devops/VM Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b697b3a83168927",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CICD Devops/VM Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d97a8cd1a5dec28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "576d6bc10e341d5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CICD Devops/VM Setup.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02d14e66ec0fe842",
+  "lastOpenFiles": [
+    "Trantech/Infrastructure/Hypervisor Research.md",
+    "Design Guidelines/Colors.md",
+    "Design Guidelines/Color Psychology and brand Philosophy.md",
+    "attachments/Pasted image 20230930122640.png",
+    "Design Guidelines/Web Content Accessibility Guidelines (WCAG) 2.1.md",
+    "attachments/Pasted image 20230930115540.png",
+    "attachments/Pasted image 20230930114557.png",
+    "attachments/Pasted image 20230930114415.png",
+    "Trantech/Infrastructure/Tranetech Infrastructure.canvas",
+    "Design Guidelines/Colors",
+    "Design Guidelines",
+    "attachments/Pasted image 20230918181739.png",
+    "attachments",
+    "Trantech/Infrastructure",
+    "Trantech",
+    "attachments/Pasted image 20230929001834.png",
+    "attachments/Pasted image 20230929001804.png",
+    "attachments/Pasted image 20230929001750.png",
+    "attachments/Pasted image 20230929001725.png",
+    "attachments/Pasted image 20230929001220.png",
+    "Discord Server Setup/Creating Categories in your Server.md",
+    "Discord Server Setup/Creating Server.md",
+    "Untitled.md",
+    "Discord Server Setup",
+    "CICD Devops/VM Setup.md",
+    "Web Development Technology Tools.md",
+    "CICD Devops",
+    "wordpress Dev/Legacy/2. PHP Functions.md",
+    "wordpress Dev/Legacy/6. functions.php, wp_head() and including stuff in head section.md",
+    "wordpress Dev/Legacy/5. Single.php, page.php, header.php, footer.php.md",
+    "wordpress Dev/0. Start Here.md",
+    "wordpress Dev/Legacy/4. Iterating over Pages and Posts.md",
+    "wordpress Dev/Legacy/1. Creating a custom Theme.md",
+    "wordpress Dev/Legacy/3. PHP Arrays.md",
+    "wordpress Dev/Legacy/Untitled",
+    "wordpress Dev/Gutenberg",
+    "wordpress Dev/Legacy",
+    "React Query.md"
+  ]
+}
